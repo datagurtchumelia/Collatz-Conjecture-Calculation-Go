@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Collatz Conjecture Calculation</title>
-</head>
+
 <body>
 
 <h1>Collatz Conjecture Calculation</h1>
